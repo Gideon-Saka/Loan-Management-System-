@@ -9,32 +9,35 @@ Customers experienced uncertainty about application status and payment schedules
 I analysed the current workflow and designed a system that structures the process into clear operational roles: Customer, Loan Officer, Credit Manager, and Finance Officer.
 The solution enables:
 
-Online loan application submission and status tracking
+- Online loan application submission and status tracking
 
-Structured validation and credit assessment
+- Structured validation and credit assessment
 
-Managerial approval workflow
+- Managerial approval workflow
 
-Automated disbursement instruction
+- Automated disbursement instruction
 
-Repayment tracking and overdue monitoring
+- Repayment tracking and overdue monitoring
 
-Automatic loan closure and notification
+- Automatic loan closure and notification
 
 # Artefacts
-
+- **Functional Requirement Document (FRD):** [Download FRD (PDF)](./FRD.pdf)
+- **Non-Funtional Requirement Document(NFRD):** [Download NFRD (PDF)](./NFRD.pdf)
+- **BPMN Diagram:** [View BPMN diagram](./Loan-Managemtent-System(2).pdf)
+- **Use Case:** [Download Use case study (PDF)](./USE-CASE.pdf)
 
 # Key Analysis Activities
 
-Identified stakeholders and their responsibilities
+- Identified stakeholders and their responsibilities
 
-Modelled the business workflow using BPMN 2.0 collaboration diagram
+- Modelled the business workflow using BPMN 2.0 collaboration diagram
 
-Defined functional and non-functional requirements
+- Defined functional and non-functional requirements
 
-Created detailed use cases for core business operations
+- Created detailed use cases for core business operations
 
-Designed a traceable lifecycle from application → approval → disbursement → repayment → closure
+- Designed a traceable lifecycle from application → approval → disbursement → repayment → closure
 
 # Business Value Delivered
 The proposed system improves operational efficiency, ensures auditability of financial decisions, increases transparency for customers, and provides real-time reporting for management. By digitizing the loan lifecycle, the organization can reduce processing time, minimize human error, and improve service reliability.
