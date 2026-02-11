@@ -23,9 +23,9 @@ The solution enables:
 
 # Artefacts
 - **Functional Requirement Document (FRD):** [Download FRD (PDF)](./FRD.pdf)
-- **Non-Funtional Requirement Document(NFRD):** [Download NFRD (PDF)](./NFRD.pdf)
-- **BPMN Diagram:** [View BPMN diagram](./Loan-Managemtent-System(2).pdf)
-- **Use Case:** [Download Use case study (PDF)](./USE-CASE.pdf)
+- **Non-Functional Requirement Document (NFRD):** [Download NFRD (PDF)](./NFRD.pdf)
+- **BPMN Diagram:** [View BPMN diagram](./Loan%20Managemtent%20System%20(2).pdf)
+- **Use Case:** [Download Use case study (PDF)](./USE%20CASE%20.pdf)
 
 # Key Analysis Activities
 
