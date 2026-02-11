@@ -22,10 +22,10 @@ The solution enables:
 - Automatic loan closure and notification
 
 # Artefacts
-- **Functional Requirement Document (FRD):** [Download FRD (PDF)](./FRD.pdf)
-- **Non-Functional Requirement Document (NFRD):** [Download NFRD (PDF)](./NFRD.pdf)
-- **BPMN Diagram:** [View BPMN diagram](./Loan%20Managemtent%20System%20(2).pdf)
-- **Use Case:** [Download Use case study (PDF)](./USE%20CASE%20.pdf)
+- **Functional Requirement Document (FRD):** [Download FRD (PDF)](./Loan%20Management%20System/FRD.pdf)
+- **Non-Functional Requirement Document (NFRD):** [Download NFRD (PDF)](./Loan%20Management%20System/NFRD.pdf)
+- **BPMN Diagram:** [View BPMN diagram](./Loan%20Management%20System/Loan%20Managemtent%20System%20(2).pdf)
+- **Use Case:** [Download Use case study (PDF)](./Loan%20Management%20System/USE%20CASE%20.pdf)
 
 # Key Analysis Activities
 
